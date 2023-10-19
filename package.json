@@ -36,21 +36,21 @@
     "ebook reader",
     "pdf reader"
   ],
-  "author": "Oguzhan Inan <oguzhan3488@gmail.com>",
+  "author": "Mattia Noris <mattianoris.business@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oguzhaninan/Buka.git"
+    "url": "https://github.com/Mattia23Dev/Buka.git"
   },
   "bugs": {
-    "email": "oguzhan3488@gmail.com",
-    "url": "https://github.com/oguzhaninan/Buka/issues"
+    "email": "mattianoris.business@gmail.com",
+    "url": "https://github.com/Mattia23Dev/Buka.git"
   },
   "build": {
     "linux": {
       "icon": "assets/img/icons"
     }
   },
-  "homepage": "https://github.com/oguzhaninan/Buka",
+  "homepage": "https://github.com/Mattia23Dev/Buka.git",
   "dependencies": {
     "alertify.js": "^1.0.12",
     "nedb": "^1.8.0",
@@ -67,8 +67,4 @@
     "electron-connect": "^0.6.3",
     "node-watch": "^0.5.7"
   },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/Buka"
-  }
 }
