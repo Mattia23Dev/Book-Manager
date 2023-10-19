@@ -19,7 +19,7 @@
 
 ## Installazione
 
-1. `git clone https://github.com/Mattia23Dev/Book-Manager.git`
+1. `git clone https://github.com/Mattia23Dev/Buka.git`
 2. `cd Buka`
 3. `npm install && npm run build && npm start`
 
