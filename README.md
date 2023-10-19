@@ -15,9 +15,9 @@
 
 ## About Buka
 
-**Buka** is a modern software that helps you manage your ebook at ease. With a simple, clean and straight-forward user interface, **Buka** aims to gather your ebooks for a reading experience without hassles. **Buka** currently support .PDF format with configurations that helps user focus more on the content. 
+**Buka** è un moderno software che aiuta a gestire i tuoi ebook o documenti. Con una semplice, pulita e intuitiva interfaccia, **Buka** mira a raccogliere i tuoi ebook per un'esperienza di lettura senza problemi. **Buka** attualmente supporta il formato .PDF con configurazioni che aiutano l'utente a concentrarsi maggiormente sul contenuto.
 
-## Installing
+## Installazione
 
 ### [Snap](https://snapcraft.io/docs/core/install)
 
@@ -76,35 +76,3 @@
 ![s4](https://raw.githubusercontent.com/oguzhaninan/Buka/master/assets/screenshots/Screenshot4.png)
 
 ![s5](https://raw.githubusercontent.com/oguzhaninan/Buka/master/assets/screenshots/Screenshot5.png)
-
-
-
-## Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/oguzhaninan/Buka/graphs/contributors"><img src="https://opencollective.com/Buka/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/Buka/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/Buka"><img src="https://opencollective.com/Buka/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/Buka/contribute)]
-
-<a href="https://opencollective.com/Buka/organization/0/website"><img src="https://opencollective.com/Buka/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/1/website"><img src="https://opencollective.com/Buka/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/2/website"><img src="https://opencollective.com/Buka/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/3/website"><img src="https://opencollective.com/Buka/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/4/website"><img src="https://opencollective.com/Buka/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/5/website"><img src="https://opencollective.com/Buka/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/6/website"><img src="https://opencollective.com/Buka/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/7/website"><img src="https://opencollective.com/Buka/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/8/website"><img src="https://opencollective.com/Buka/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/Buka/organization/9/website"><img src="https://opencollective.com/Buka/organization/9/avatar.svg"></a>
