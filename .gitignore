@@ -1,0 +1,10 @@
+node_modules
+.vscode
+release-builds
+dest
+dist
+build
+bundle/**/**/*.js
+bundle/**/*.js
+bundle/*.js
+
